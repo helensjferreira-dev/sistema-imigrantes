@@ -49,7 +49,7 @@ sistema-imigrantes/
 
 2. Execute o arquivo principal:
    ```bash
-   python main.py`
+   python main.py
    ```
 
 🔐 **Configuração do Banco de Dados**
@@ -59,16 +59,16 @@ O projeto pode se conectar a um banco MySQL. Para isso:
 1. Copie o arquivo conn_example.py para conn.py:
 
    ```bash
-   cp conn_example.py conn.py`
+   cp conn_example.py conn.py
 
    ```
 
 2. Edite conn.py e preencha com seus dados:
 
-`Pythonhost="SEU_HOST_AQUI"`  
-`user="SEU_USUARIO_AQUI"`  
-`password="SUA_SENHA_AQUI"`  
-`database="SEU_BANCO_AQUI`
+  `Pythonhost="SEU_HOST_AQUI"`  
+  `user="SEU_USUARIO_AQUI"`  
+  `password="SUA_SENHA_AQUI"`  
+  `database="SEU_BANCO_AQUI`
 
 🖼️ **Exemplo de Execução**
 
