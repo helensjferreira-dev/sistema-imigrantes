@@ -22,31 +22,33 @@ Este projeto foi desenvolvido como parte do meu aprendizado inicial em programa�
 
 sistema-imigrantes/
 │
-├── main.py              # Arquivo principal com o menu geral
-├── imigranteTela.py     # Menu para operações com imigrantes
-├── imigrante.py         # Funções para CRUD de imigrantes
-├── apoioTela.py         # Menu para serviços de apoio
-├── apoio.py             # Funções para CRUD de serviços de apoio
-├── buscas.py            # Funções para busca por cidade ou tipo
-├── confereID.py         # Validação e conferência de IDs antes de operações
-├── opcao.py             # Funções auxiliares (validação de datas, formatação)
-├── conn_example.py      # Exemplo de configuração do banco
-└── README.md            # Documentação do projeto
+├── main.py              # Arquivo principal com o menu geral  
+├── imigranteTela.py     # Menu para operações com imigrantes  
+├── imigrante.py         # Funções para CRUD de imigrantes  
+├── apoioTela.py         # Menu para serviços de apoio  
+├── apoio.py             # Funções para CRUD de serviços de apoio  
+├── buscas.py            # Funções para busca por cidade ou tipo  
+├── confereID.py         # Validação e conferência de IDs antes de operações  
+├── opcao.py             # Funções auxiliares (validação de datas, formatação)  
+├── conn_example.py      # Exemplo de configuração do banco  
+└── README.md            # Documentação do projeto  
 
 ---
 
 ## 🚀 Como Executar
+
 1. Clone este repositório:
    ```bash
    git clone https://github.com/seuusuario/sistema-imigrantes.git
    cd sistema-imigrantes
 
 
-Execute o arquivo principal:
+2. Execute o arquivo principal:
 
 `python main.py`
 
-🔐 Configuração do Banco de Dados
+🔐 Configuração do Banco de Dados  
+
 O projeto pode se conectar a um banco MySQL. Para isso:
 
 
@@ -63,8 +65,9 @@ O projeto pode se conectar a um banco MySQL. Para isso:
 
 
 
-🖼️ Exemplo de Execução
-link_para_imagem_ou_gif
+🖼️ Exemplo de Execução  
+
+![Sistema de Imigrantes](./tela-inicial.png) 
 
 ✅ Aprendizados
 
@@ -73,6 +76,7 @@ Uso de funções e controle de fluxo.
 Integração básica com MySQL.
 Boas práticas para proteger credenciais.
 
-📄 Licença
+📄 Licença  
+
 Este projeto é livre para estudo e aprendizado.
 

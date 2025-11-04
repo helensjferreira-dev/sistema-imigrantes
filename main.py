@@ -22,7 +22,7 @@ def Menu(): #criar a função do menu
         print("********************************************************************************************")
         print("")
 
-        print("                                   Dupla: HELEN e EVILY")
+        print("                                 ")
 
         # criando o menu principal 
         print("")
