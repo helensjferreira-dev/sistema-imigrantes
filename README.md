@@ -70,16 +70,18 @@ O projeto pode se conectar a um banco MySQL. Para isso:
   `password="SUA_SENHA_AQUI"`  
   `database="SEU_BANCO_AQUI`
 
+
 🖼️ **Exemplo de Execução**
 
 ![Sistema de Imigrantes](./tela-inicial.png)
 
+
 ✅ **Aprendizados**
 
-Estruturação de código em módulos.
-Uso de funções e controle de fluxo.
-Integração básica com MySQL.
-Boas práticas para proteger credenciais.
+- Estruturação de código em módulos.  
+- Uso de funções e controle de fluxo.  
+- Integração básica com MySQL.  
+- Boas práticas para proteger credenciais.  
 
 📄 **Licença**
 
