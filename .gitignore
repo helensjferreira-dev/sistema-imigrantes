@@ -1,0 +1,20 @@
+# Ignorar arquivos de cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar arquivos de configuração do banco (credenciais)
+conn.py
+
+# Ignorar arquivos temporários e logs
+*.log
+*.tmp
+
+# Ignorar ambientes virtuais
+venv/
+.env/
+
+# Ignorar arquivos do sistema
+.DS_Store
+Thumbs.db
